@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+legend{
+    font-size: larger;
+    color: orangered;
+}
+
+form{
+    width: 400px;
+    position: absolute;
+    transform: translate(30vw, 30vh);
+}
+
+.enter{
+    font-size: 20px;
+    padding: 10px;
+}
+
+input{
+    border-radius: 7px;
+    font-weight: bold;
+    text-align: center;
+}

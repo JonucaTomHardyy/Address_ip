@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+
+legend{
+    font-size: larger;
+    color: orangered;
+}
+
+form{
+    width: 400px;
+    position: absolute;
+    transform: translate(30vw, 30vh);
+}
+
+p{
+    font-size: 20px;
+    padding: 10px;
+}
+
+input{
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: green;
+}
+
+div{
+    position: absolute;
+    left: 40vw;
+    top: 30vh;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
